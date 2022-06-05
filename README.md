@@ -11,4 +11,3 @@
 ### Entrega
 
 1. Sube los archivos via GitHubClassroom
-2. Genera un archivo .zip  y súbelo a Canvas
